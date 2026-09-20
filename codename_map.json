@@ -1,0 +1,7 @@
+{
+    "Метрика объективной референсной оценки качества 3д": "MetricProjectX",
+    "Кодек 3д": "CompressProjectY",
+    "PLER": "MetricAlpha",
+    "ARTCam": "StudioBeta",
+    "C&T-3D": "TrackerGamma"
+}
